@@ -1,0 +1,23 @@
+{
+  "name": "exaggerator-host",
+  "version": "1.0.0",
+  "description": "a host repo for the tool exaggerator-v1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehawk82/exaggerator-host.git"
+  },
+  "author": "Jason Graziano",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Ehawk82/exaggerator-host/issues"
+  },
+  "homepage": "https://github.com/Ehawk82/exaggerator-host#readme",
+  "devDependencies": {
+    "exaggerator-v1": "git+https://github.com/Ehawk82/exaggerator-v1.git"
+  }
+}
