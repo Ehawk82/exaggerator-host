@@ -1,6 +1,6 @@
 {
   "name": "exaggerator-host",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "a host repo for the tool exaggerator-v1",
   "main": "./src/js/index.js",
   "scripts": {
