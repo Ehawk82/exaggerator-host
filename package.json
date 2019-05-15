@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Ehawk82/exaggerator-host#readme",
   "devDependencies": {
-    "exaggerator-v1": "git+https://github.com/Ehawk82/exaggerator-v1.git"
-  }
+    "exaggerator-v1": "file:../exaggerator-v1"
+  },
+  "dependencies": {}
 }
